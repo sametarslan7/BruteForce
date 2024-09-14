@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\bin\Debug\DataBaseSecurity.exe.config
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\bin\Debug\DataBaseSecurity.exe
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\bin\Debug\DataBaseSecurity.pdb
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\obj\Debug\DataBaseSecurity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\obj\Debug\DataBaseSecurity.frmBruteForce.resources
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\obj\Debug\DataBaseSecurity.Properties.Resources.resources
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\obj\Debug\DataBaseSecurity.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\obj\Debug\DataBaseSecurity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\obj\Debug\DataBaseSecurity.exe
+C:\Users\user\Desktop\DataBaseSecurity\DataBaseSecurity\obj\Debug\DataBaseSecurity.pdb
